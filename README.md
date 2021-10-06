@@ -1,5 +1,11 @@
 # Voron Serial Predictor
 
+_Note: due to recent events, various technical shortcomings with Voron printers,
+and inappropriate and irrational actions taken by the Voron team against a
+substantial number of dissenting community members expressing their right to
+free speech, including myself, I no longer recommend building printers of their
+design. I will be publishing a detailed article explaining why in the near future, which I will link to here._
+
 This is a set of small Python scripts which:
 
 * Fetches all issued Voron serials from [r/voroncorexy](https://www.reddit.com/r/voroncorexy/)
